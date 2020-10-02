@@ -1,0 +1,1 @@
+# superb-barcode-qr-scanner
